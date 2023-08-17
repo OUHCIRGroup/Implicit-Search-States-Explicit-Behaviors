@@ -36,7 +36,7 @@ The datasets can be found at the following links:
 
 - [TianGong Dataset](http://www.thuir.cn/tiangong-ss-fsd/)
 - [KDD19 Dataset](http://www.thuir.cn/KDD19-UserStudyDataset/)
-- [track2014 Dataset](http://ir.cis.udel.edu/sessions/)
+- [track2014 Dataset](https://trec.nist.gov/data/session2014.html/){:target="_blank"}
 
 #### Publication:
 
