@@ -57,4 +57,10 @@ year = {2021}
 }
 ```
 
+#### Acknowledgment:
+
+This work is supported by the Junior Faculty Fellowship Program award from the University of Oklahoma Office of the Vice President for Research and Partnerships.
+
+
+
 For any issues or questions regarding the code, please [contact us](mailto:benw@ou.edu). 
