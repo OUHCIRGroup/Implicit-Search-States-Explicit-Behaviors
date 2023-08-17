@@ -40,7 +40,7 @@ The datasets can be found at the following links:
 
 #### Publication:
 
-If you use this code or the datasets, please cite our publication:
+If you use this code, please cite our publication:
 
 ```latex
 @article{https://doi.org/10.1002/pra2.587,
